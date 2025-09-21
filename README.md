@@ -1,4 +1,4 @@
-b## Mobile_Sales_Analysis
+# Mobile_Sales_Analysis
 ## Overview:
 
 + This is a sales report for a Mobile Products Sales company 
@@ -7,12 +7,7 @@ ___
 
 ## Contents
 
-+ [Project Overview](#Project-Overview)
-+ [Data Source](#Data-Source)
-+ [Tools Used](#Tools-Used)
-+ [Table Outlay](#Table-Outlay)
-+ [Query Language](#Query-Language)
-+ [VIsualisation](#VIsualisation)
++ [Project Overview](#Project-Overview) |+ [Data Source](#Data-Source) |+ [Tools Used](#Tools-Used) |+ [Table Outlay](#Table-Outlay) |+ [Query Language](#Query-Language) |+ [VIsualisation](#VIsualisation)
 
 ---
 ## Project Overview
@@ -27,7 +22,7 @@ The main goal of this project is to identify:.
 In this analysis, I used pivot table to explore metrics like Total Sales by Color, Payment Method, Gender. I also used Excel for data cleaning and exploration, SQL for querying and segmentation, and Power BI for creating an interactive sales dashboard that highlights key business insights.
 
 --- 
-### Data Source
+## Data Source
 www.kaggle.com/dataset
 
 ---
