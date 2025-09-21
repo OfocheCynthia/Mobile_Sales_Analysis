@@ -1,4 +1,4 @@
-## Mobile_Sales_Analysis
+b## Mobile_Sales_Analysis
 ## Overview:
 
 + This is a sales report for a Mobile Products Sales company 
@@ -7,7 +7,12 @@ ___
 
 ## Contents
 
-Project Overview >> Data Source >> Tools Used >> Table Outlay  Query Language  VIsualisation
++ [Project Overview](#Project-Overview)
++ [Data Source](#Data-Source)
++ [Tools Used](#Tools-Used)
++ [Table Outlay](#Table-Outlay)
++ [Query Language: (SQL)](#Query-Language:-(SQL))
++ [VIsualisation](#VIsualisation)
 
 ---
 ## Project Overview
