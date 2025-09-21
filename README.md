@@ -12,10 +12,10 @@ ___
 ---
 ## Project Overview
 
->> This project analyzes a mobile phone sales dataset to uncover key business insights. The dataset contains details such as product model, brand, price, Age, Gender, color, quantity sold, payment method and sales amount. Using data analysis techniques, I explored sales performance across different dimensions, including product category, customer preferences, and regional trends.
+>> This project analyzes a mobile phone sales dataset to uncover key business insights. The dataset contains details such as product model, brand, price, Age, Gender, quantity sold, payment method and sales amount. Using data analysis techniques, I explored sales performance across different dimensions, including product category, customer preferences, and regional trends.
 The main goal of this project is to identify:.
 + How Age and Gender impacts customer demand.
-+ Sales patterns across colors and product categories.
++ Sales patterns acrossproduct categories.
 + Potential business opportunities for increasing sales.
 + The most preferred payment method.
   
