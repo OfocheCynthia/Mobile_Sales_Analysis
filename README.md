@@ -97,6 +97,11 @@ FROM mobile_sales;
 
 <img width="1033" height="439" alt="Mobile sales Dashboard" src="https://github.com/user-attachments/assets/3c76b0eb-ad50-4c4d-99f0-b26c98c360e9" />
 
+### Link to Charts
+[Link to Chart]
+
+[View my Linkedin](https://www.linkedin.com/in/ofochecynthia)
+
 
 
 
