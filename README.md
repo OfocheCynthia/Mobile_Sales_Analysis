@@ -91,5 +91,6 @@ FROM mobile_sales;
 ### Visualisation
 ### Pivot Tables
 
+<img width="979" height="436" alt="Mobile sales pivot table" src="https://github.com/user-attachments/assets/00c19c81-f2eb-4c47-93d8-c666f691435e" />
 
 
