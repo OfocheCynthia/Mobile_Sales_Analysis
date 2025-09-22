@@ -99,6 +99,10 @@ FROM mobile_sales;
 
 <img width="1033" height="439" alt="Mobile sales Dashboard" src="https://github.com/user-attachments/assets/3c76b0eb-ad50-4c4d-99f0-b26c98c360e9" />
 
+### PowerBi Dashboard
+
+<img width="844" height="474" alt="Mobile sales power bi " src="https://github.com/user-attachments/assets/7f14bb04-ad9e-49bb-90b6-b5ef0d2f3654" />
+
 ### Link to Charts
 [Link to Chart]
 
